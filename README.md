@@ -8,7 +8,7 @@
 #
 
 ### My Socials: 
-[![Linkedn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=146DF5)](www.linkedin.com/in/miguelcoimbrascardoso)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=146DF5)](www.linkedin.com/in/miguelcoimbrascardoso)
 #
 
 
